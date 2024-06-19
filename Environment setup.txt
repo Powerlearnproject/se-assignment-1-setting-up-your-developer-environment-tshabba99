@@ -1,0 +1,72 @@
+﻿Detailed Documentation Guide
+
+
+1. Operating System Installation
+Task: Download and Install Windows 11
+* Steps:
+   * Go to the Windows 11 download page.
+   * Click on "Download now".
+   * Run the Installation Assistant and follow on-screen instructions.
+
+2.GitBash
+
+
+Task: Installing Git
+   * Description: Installing Git on your Windows 11 machine.
+   * Step-by-Step:
+   1. Download Git:
+   * Go to the Git website.
+   * Click "Download" for Windows.
+   2. Run Installer:
+   * Open the downloaded installer file.
+   * Click "Next" on the setup wizard.
+   3. Configure Installation Options:
+   * Select default options unless you need specific configurations.
+   * Click "Install".
+   4. Complete Installation:
+   * Click "Finish" once the installation is complete.
+   * Verify installation by opening Command Prompt and typing git --version.
+   *   Customizations:
+      * Set Visual Studio Code as the default editor during installation.
+
+
+2.Python
+
+
+Step-by-Step:
+      1. Download Python:
+      * Go to the Python website.
+      * Click "Downloads" and select "Python 3.x.x".
+      *            2. Run Installer:
+         * Open the downloaded installer file.
+         * Check "Add Python to PATH".
+         * Click "Install Now".
+         3. Verify Installation:
+         * Open Command Prompt.
+         * Type python --version to check the installed version.
+         *   4. Installing Visual Studio Code
+Task: Install and configure Visual Studio Code.
+            * Steps:
+            * Download Visual Studio Code from the official website.
+            * Run the installer and follow the setup instructions.  
+            * Install essential extensions like Python, GitLens, and Prettier.
+            * 5. Install MySQL
+Task: Installing SQL
+               * Steps:
+Download MySQL for the website : https://dev.mysql.com/downloads/installer/
+  
+
+Challenges Faced 
+When installing VS Code I found the initial configuration a little complex because I had to install plugins and packet managers like pip and I would make spelling mistakes and the computer would give me errors and this would frustrate me .
+
+
+While installing the Version Control System I had a challenge with setting up my file path correctly. But after watching the video lesson again I was able to win.
+
+
+I also experienced dependency conflicts and had to update certain packages.
+
+
+Sample project for GIT hub
+
+https://github.com/tshabba99/Dr-Meds
+
